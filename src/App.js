@@ -1,14 +1,14 @@
 import React from "react";
 import "./global.css";
 
-import NavTop from "./components/nav-top";
+import MainHeader from "./components/mainHeader";
+import Content from "./components/content";
 
 function App() {
   return (
     <div id="app">
-      <header>
-        <NavTop />
-      </header>
+      <MainHeader />
+      <Content />
     </div>
   );
 }

@@ -12,7 +12,7 @@ export default function NavTop() {
               <a
                 className="nav-left-item"
                 style={{ color: "#005CEF" }}
-                href="#"
+                href=" "
               >
                 globo.com
               </a>
@@ -22,7 +22,7 @@ export default function NavTop() {
               <a
                 className="nav-left-item"
                 style={{ color: "#A80000" }}
-                href="#"
+                href=" "
               >
                 g1
               </a>
@@ -32,7 +32,7 @@ export default function NavTop() {
               <a
                 className="nav-left-item"
                 style={{ color: "#48892A" }}
-                href="#"
+                href=" "
               >
                 globoesporte
               </a>
@@ -42,7 +42,7 @@ export default function NavTop() {
               <a
                 className="nav-left-item"
                 style={{ color: "#FF7F00" }}
-                href="#"
+                href=" "
               >
                 gshow
               </a>
@@ -52,7 +52,7 @@ export default function NavTop() {
               <a
                 className="nav-left-item"
                 style={{ color: "#005CEF" }}
-                href="#"
+                href=" "
               >
                 videos
               </a>
@@ -62,22 +62,22 @@ export default function NavTop() {
         <nav className="nav-right">
           <ul>
             <li>
-              <a className="nav-right-item" href="#">
+              <a className="nav-right-item" href=" ">
                 Assine já
               </a>
             </li>
             <li>
-              <a className="nav-right-item" href="#">
+              <a className="nav-right-item" href=" ">
                 minha conta
               </a>
             </li>
             <li>
-              <a className="nav-right-item" href="#">
+              <a className="nav-right-item" href=" ">
                 e-mail
               </a>
             </li>
             <li>
-              <a className="nav-right-item" href="#">
+              <a className="nav-right-item" href=" ">
                 <button>Entrar</button>
               </a>
             </li>

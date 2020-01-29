@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand|Roboto:400,400i,500,700,900&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -12,9 +12,13 @@ body {
     text-decoration: none;
 }
 
+body, #root {
+    height: 140vh;
+}
+
 body, input, button {
-    font-family: Roboto, sans-serif;
-    letter-spacing: -0.5px;
+    font-family: Quicksand, sans-serif;
+    letter-spacing: -0.8px;
 }
 
 li, a {

@@ -1,0 +1,12 @@
+.sub-header {
+    height: 60px;
+    background: #3B9C00;
+    padding: 0 8%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sub-header-item {
+    color: #F9F9F9;
+}
