@@ -3,5 +3,9 @@ import React from "react";
 import "./styles.css";
 
 export default function Content() {
-  return <h1>Marlon</h1>;
+  return (
+    <div className="content-principal">
+      <h1>Marlon</h1>
+    </div>
+  );
 }
